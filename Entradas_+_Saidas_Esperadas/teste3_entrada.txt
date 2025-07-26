@@ -1,0 +1,15 @@
+5
+Arquitetura de Computadores
+24T34
+
+Ciências de Dados
+35M34, 7N34
+
+Estrutura de Dados Básicas I
+35T34, 7T34
+
+Linguagem de Programação I
+35M56, 7M56
+
+Probabilidade
+24M34

@@ -1,0 +1,15 @@
+5
+Cálculo Diferencial e Integral
+246T12
+
+Fundamentos Matemáticos da Computação I
+246T34
+
+Introdução às Técnicas de Programação
+246M34
+
+Práticas de Leitura e Escrita em português II
+3M34
+
+Vetores e Geometria Analítica
+35M12
